@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string translatable="true" name="app_name">MagicProgram </string>
+    <string name="btn_Reportorio" translatable="true"> Reportoire </string>
+    <string name="btn_Espectaculos" translatable="true"> Shows </string>
+    <string name="btn_Eventos" translatable="true"> Events </string>
+    <string name="btn_Efeitos" translatable="true"> Tricks </string>
+    <string name="btn_Clientes" translatable="true"> Clients </string>
+    <string name="btn_Definicoes" translatable="true"> Definitions </string>
+    <string name="btn_Entrar" translatable="true"> Enter</string>
+    <string name="btn_geral" translatable="true"> General </string>
+    <string name="btn_idiomas" translatable="true"> Languages </string>
+    <string name="btn_misc" translatable="true"> Misc </string>
+    <string name="RepText" translatable="true"> Here is a list of all the Tricks that you have the skill to demonstrate, as well as the possibility of Inserting, Editing and Deleting tricks or characteristics about them. </string>
+    <string name="EspText" translatable="true"> Information about the Shows already predefined and which Tricks are in them; Possibility of Creating new Shows, Modify and Eliminate them. </string>
+    <string name="EvText" translatable="true"> Historic of Events and the type of Show made, when it was realized and to which Client. </string>
+    <string name="EfText" translatable="true"> Tricks that the App enables you to do. </string>
+    <string name="CliText" translatable="true"> Managing Clients and Data. </string>
+    <string name="DefText" translatable="true"> System Definitions. </string>
+
+
+</resources>

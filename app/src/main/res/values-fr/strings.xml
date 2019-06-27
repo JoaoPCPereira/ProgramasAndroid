@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string translatable="true" name="app_name">fr_magic</string>
+    <string name="btn_Reportorio" translatable="true"> Reportorio </string>
+    <string name="btn_Espectaculos" translatable="true"> Espectaculos </string>
+    <string name="btn_Eventos" translatable="true"> Eventos </string>
+    <string name="btn_Efeitos" translatable="true"> Efeitos </string>
+    <string name="btn_Clientes" translatable="true"> Clientes </string>
+    <string name="btn_Definicoes" translatable="true"> Definicoes </string>
+    <string name="btn_Entrar" translatable="true"> Entrar </string>
+    <string name="btn_geral" translatable="true"> Geral </string>
+    <string name="btn_idiomas" translatable="true"> Idiomas </string>
+    <string name="btn_misc" translatable="true"> Misc </string>
+    <string name="RepText" translatable="true"> Aqui encontra-se uma lista de todos os Efeitos que tem a capacidade de demonstrar, bem como a possibilidade de Inserir, Editar ou Apagar efeitos ou caracteristicas dos mesmos. </string>
+    <string name="EspText" translatable="true"> Informação sobre os Espectáculos já predefinidos quais os Truques contidos; Possibilidade de também de Criar novos Espectáculos, Modificá-los e Eliminar os já existentes. </string>
+    <string name="EvText" translatable="true"> Histórico de Eventos realizados o tipo de Espectáculo, quando foram e para que Clientes </string>
+    <string name="EfText" translatable="true"> Os diversos Truques que a aplicação o permite executar. </string>
+    <string name="CliText" translatable="true"> Lista e Gestão dos Clientes e seus dados. </string>
+    <string name="DefText" translatable="true"> Configurações do Sistema. </string>
+
+</resources>
